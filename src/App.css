@@ -329,15 +329,15 @@ body::after {
 .transliteration {
   margin-top: 12px;
   font-weight: bold;
-  font-style: italic;
   color: white;
+  font-size: 1.3rem;
 }
 
 .translation {
   margin-top: 6px;
   font-weight: bold;
-  font-style: italic;
   color: white;
+  font-size: 1.3rem;
 }
 
 .ziyarat-comment {
