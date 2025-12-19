@@ -631,9 +631,9 @@ export const ziyaratAshura = [
   },
   {
     id: "comment",
-    type: "comment-1",
-    text: "You may then repeat the following La'an & salams 100 times:",
-  },
+    type: "comment-laan",
+    text: "You may then repeat the following La'an 100 times:",
+  },  
   {
     id: 106,
     arabic: "اَللَّهُمَّ ٱلْعَنْ أَوَّلَ ظَالِمٍ",
@@ -671,11 +671,11 @@ export const ziyaratAshura = [
     transliteration: "allahumma il`anhum jami`an",
     translation: "O Allah, pour curses upon all of them.",
   },
-  // {
-  //   id: "comment-2",
-  //   type: "comment",
-  //   text: "You may then repeat the following salam ** one hundred times:"
-  // },
+  {
+    id: "comment",
+    type: "comment-salam",
+    text: "You may then repeat the following salams 100 times:",
+  },  
   {
     id: 112,
     arabic: "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ ٱللَّهِ",
